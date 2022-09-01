@@ -8,7 +8,7 @@ public class SumOfEven {
         //TODO Auto-generated method stub
 
         //Convert array to List
-        List<Integer> numbers = Arrays.asList(2,3,46,87,10,24,28,98,91);
+        List<Integer> numbers = Arrays.asList(36,45,24,64,78,99,75,47,18);
 
         System.out.println("Sum of even numbers : ");
 
